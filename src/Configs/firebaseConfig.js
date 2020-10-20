@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAG62septAT1MgtWxeh6YrwYlXEhFheByc",
-    authDomain: "creative-agency-9018d.firebaseapp.com",
-    databaseURL: "https://creative-agency-9018d.firebaseio.com",
-    projectId: "creative-agency-9018d",
-    storageBucket: "creative-agency-9018d.appspot.com",
-    messagingSenderId: "717130611254",
-    appId: "1:717130611254:web:ed379fb97a844da2083697"
-  };
+  apiKey: "AIzaSyAPs2V2dpDnzlg9i2m53KMCD6jHrFbD9hA",
+  authDomain: "creative-agency-be762.firebaseapp.com",
+  databaseURL: "https://creative-agency-be762.firebaseio.com",
+  projectId: "creative-agency-be762",
+  storageBucket: "creative-agency-be762.appspot.com",
+  messagingSenderId: "311380523937",
+  appId: "1:311380523937:web:203a5db50463ca85fc29e0"
+};
 export default firebaseConfig;
