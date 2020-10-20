@@ -1,0 +1,12 @@
+.dashboard{
+    background-color: #DEFFED;
+}
+.dashboard-box{
+    min-height: 650px;
+    padding: 30px 10px;
+}
+@media only screen and (max-width: 768px) {
+    .order-box{
+        min-height: 400px;
+    }
+  }

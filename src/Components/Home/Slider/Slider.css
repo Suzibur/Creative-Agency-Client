@@ -1,0 +1,14 @@
+.slider{
+    margin-top: 100px;
+    background-color: #111430;
+    padding: 40px 0;
+}
+.work-title{
+    color: white;
+    font-size: 34px;
+    font-weight: bold;
+    text-align:center;
+}
+.work-title span{
+    color: #7AB259;
+}

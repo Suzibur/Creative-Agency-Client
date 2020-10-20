@@ -1,0 +1,36 @@
+#footer{
+    margin-top: 100px;
+    background-color: #FBD062;
+    min-height: 400px;
+    padding-top: 50px;
+}
+#footer-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+#copyright{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+.input-text{
+    height: 40px;
+    width: 100%;
+    padding: 0 10px;
+    margin-bottom: 10px;
+    border: none;
+    display: block;
+    border-radius: 5px;
+}
+.text-box{
+    height: 150px;
+    width: 100%;
+    display: block;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.input-text, .text-box:hover{
+    outline: none;
+}

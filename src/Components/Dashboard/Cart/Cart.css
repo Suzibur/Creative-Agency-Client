@@ -1,0 +1,15 @@
+#cart{
+    min-height: 250px;
+    padding-top: 20px;
+    border: none;
+    margin-top: 50px;
+    cursor: pointer;
+}
+#cart-img{
+    margin-left: 20px;
+    width: 74px;
+}
+#cart-title{
+    font-weight: bold;
+    font-size: 20px;
+}

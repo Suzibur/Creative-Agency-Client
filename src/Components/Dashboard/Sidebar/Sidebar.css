@@ -1,0 +1,46 @@
+#sidebar{
+    padding: 30px 20px;
+    height: 100%;
+    background-color: white;
+}
+.sidebar-logo{
+    width: 150px;
+}
+.sidebar-menu{
+    margin-top: 50px;
+}
+.sidebar-link{
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+}
+.sidebar-link:hover{
+    color: #009444;
+    text-decoration: none;
+}
+@media only screen and (max-width: 768px) {
+    #sidebar{
+        padding: 30px 0;
+    }
+    .sidebar-menu{
+        padding: 8px;
+        background-color: #DEFFED;
+    }
+    .sidebar-logo{
+        display: block;
+        margin: auto;
+    }
+    .sidebar-link{
+        display: inline;
+        margin: 0 10px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .sidebar-link{
+        font-size: 12px;
+        margin: 0 5px;
+    }
+    
+}

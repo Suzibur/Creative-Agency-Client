@@ -1,0 +1,22 @@
+#service{
+    min-height: 300px;
+    padding: 20px;
+    border: none;
+    margin-top: 50px;
+    cursor: pointer;
+}
+#service:hover{
+    box-shadow: 3px 20px 20px 20px #E5E5E5;
+}
+#service-img{
+    width: 74px;
+    margin: auto;
+}
+#service-title{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+#service-text{
+    text-align: center;
+}

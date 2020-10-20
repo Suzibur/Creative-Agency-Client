@@ -1,0 +1,11 @@
+.services{
+    margin-top: 80px;
+}
+.services-title{
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+}
+.services-title span{
+    color: #7AB259;
+}
